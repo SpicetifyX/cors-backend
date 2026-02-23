@@ -1,0 +1,14 @@
+{
+  "name": "cors-backend",
+  "private": true,
+  "main": "server.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "hono": "^4.12.2"
+  }
+}
