@@ -9,6 +9,9 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "hono": "^4.12.2"
+    "discord-rpc": "^4.0.1",
+    "hono": "^4.12.2",
+    "tar": "^7.5.9",
+    "yauzl": "^3.2.0"
   }
 }
